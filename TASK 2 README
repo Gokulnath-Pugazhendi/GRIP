@@ -1,0 +1,4 @@
+This is the 2nd task in which we have to predict the optimum no. of clusters from the iris dataset.
+I have used the Python programming language to achieve this task.
+This is done by  importing the required libraries and using kmeans to find the elbow point and then calculating the wcss to reppresent it visually.
+Thank you.
